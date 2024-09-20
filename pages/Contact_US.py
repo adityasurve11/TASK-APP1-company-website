@@ -22,4 +22,4 @@ topic {option}
     button = st.form_submit_button("Submit")
     if button:
         sendEMAIL(message)
-        st.info("Your email was sent successfully")
+        st.info("Your email was sent successfullyyyy")
