@@ -10,7 +10,7 @@ and the birds were sinf=ging in its warmth. There was no way to anticipate what 
 to happen. It was a worst-case scenario and there was no way out of it.
 """)
 
-st.subheader("Our Team")
+st.subheader("Our Best Team")
 
 col1, col2, col3 = st.columns(3)
 
