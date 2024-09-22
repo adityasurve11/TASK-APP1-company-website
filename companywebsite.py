@@ -3,7 +3,7 @@ import pandas
 
 st.set_page_config(layout="wide")
 
-st.header("The Best Company")
+st.header("The Best Company in the world.")
 st.write("""
 The day had begun on a bright note. The sun finally peeked through the rain for the first time in a week, 
 and the birds were sinf=ging in its warmth. There was no way to anticipate what was about 
